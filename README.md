@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello! Folks👋 I'm Parshwa Mehta</h1>
+<!-- <h1 align="center">Hello! Folks👋 I'm Parshwa Mehta</h1>
 <h3 align="center">passionate About Learning Various Technology</h3>
 
 ![Github Banner](image.jpg)
@@ -80,4 +80,4 @@ Here are some ideas to get you started:
 <a href="https://www.codechef.com/users/anerisonani09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anerisonani09" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anerivsonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anerivsonani" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anerisonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anerisonani" height="30" width="40" /></a>
-</p>
+</p> -->
