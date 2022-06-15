@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARSHWA0510&layout=compact&theme=merko">
 
+<i>Random dev joke for you!😃</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
 
 # Contact Me :
 
@@ -38,9 +41,16 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <a href="mailto:mehtaparshwa.05@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/PARSHWA0510/PARSHWA0510/blob/main/assests/gmail.png" />
+ 
 </a>
 <a href="https://www.linkedin.com/in/parshwa-mehta-949306205">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/PARSHWA0510/PARSHWA0510/blob/main/assests/linkedin.png" />
+ <br> <br> <br>
+ <a href="https://www.instagram.com/parshwa_0510/">
+  <img align="left" alt="Linkedin" width="50" hight="25" src="https://github.com/PARSHWA0510/PARSHWA0510/blob/main/assests/instagram.jpg" />
+  
+  <a href="http://codechef.com/users/PARSHWA0510">
+  <img align="left" alt="Linkedin" width="125" hight="75" src="https://github.com/PARSHWA0510/PARSHWA0510/blob/main/assests/codechef.png" />
 </br>
 </br>
 </br>
